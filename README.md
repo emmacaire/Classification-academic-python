@@ -7,7 +7,7 @@ A classification project in a large healthcare dataset of 75000 rows and over 30
 ## 📊 Key Deliverables & Artifacts
 * 📂 **[Interactive Analysis Notebook](./notebooks/Classification_data_mining_2.ipynb):** 
 Python code including EDA, data cleaning, model training and comparison.
-* 📄 **[Full Academic Paper / PDF Report](./reports/Classification_report_DM2.pdf):** 
+* 📄 **[Full Academic Paper / PDF Report](./report/Classification_report_DM2.pdf):** 
 A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
 
 ## 🛠️ Tech Stack & Methodology
